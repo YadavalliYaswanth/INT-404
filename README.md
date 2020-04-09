@@ -9,3 +9,5 @@ Should Install before running the code:
 4.tkinter
 5.function tools
 
+Should run In Jupyter . In the GUI you have enter Details and You will get out put on the Jupyter Notepad.
+*******************important to run in Jupyter and install requred packages*******************
